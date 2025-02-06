@@ -2,7 +2,7 @@
 
 Keycloak is an Open Source Identity and Access Management solution for modern Applications and Services.
 
-This reporsitory contains the client-side JavaScript library that can be used to secure web applications and integrate them with Keycloak.
+This repository contains the client-side JavaScript library that can be used to secure web applications and integrate them with Keycloak.
 
 ## Help and Documentation
 
